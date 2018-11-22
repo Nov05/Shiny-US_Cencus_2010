@@ -5,7 +5,8 @@ This is a Shiny app for R
 ## How to run the app?
 
 Launch the app by running the following code in your RStudio.
+
 **library(shiny); runGitHub( "Shiny-US_Cencus_2010", "Nov05")**
 
-<br><br><br>
+<br><br>
 For more information: https://shiny.rstudio.com/tutorial/written-tutorial/lesson7/
