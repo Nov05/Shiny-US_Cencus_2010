@@ -1,6 +1,6 @@
 # Shiny-US_Cencus_2010
 
-This is a Shiny app for R.
+This is an R Shiny app.
 
 ## How to run the app?
 
